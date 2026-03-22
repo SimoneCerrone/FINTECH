@@ -1,0 +1,11 @@
+# File temporanei di Excel e Office (quelli che ti hanno bloccato)
+~$*
+*.tmp
+
+# File spazzatura dei Mac (ho visto che un tuo compagno li aveva caricati per sbaglio)
+.DS_Store
+
+# File di sistema e cache di Python (assolutamente da ignorare)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
